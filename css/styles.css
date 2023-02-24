@@ -1,9 +1,49 @@
 body {
     background: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-div {
-    background: red;
+.carcasa{
+    background: linear-gradient(to right top, #cb3b3b, #cd3b3b, #ce3c3c, #d03c3c, #d23c3c);    
     height: 450px;
     width: 300px;
+    border-radius: 5%;
+    display: flex;
+    justify-content: center;
 }
+
+.pantalla{
+    background: rgba(0, 0, 0, 0.962);
+    height: 180px;
+    width: 270px;
+    margin-top: 20px;
+    border-radius: 2%;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+section{
+    color: rgb(59, 109, 174);
+    align-self: flex-end;
+}
+
+.colorC{
+    color: rgb(163, 60, 60);
+}
+.colorO{
+    color: rgb(47, 81, 175);
+}
+.colorL{
+    color: rgb(29, 156, 39);
+}
+.colorO2{
+    color: rgb(244, 232, 2);
+}
+.colorR{
+    color: rgb(0, 170, 255);
+}
+
