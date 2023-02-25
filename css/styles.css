@@ -135,37 +135,81 @@ button {
     background-color: #6f5757;
 }
 
-.buttonA{
+.buttonA {
     background-color: #000000;
     color: rgb(52, 56, 92);
     width: 35px;
     height: 35px;
     align-self: center;
     box-shadow: 5px 5px 5px black;
-    border-radius: 50px;
-    margin-left: 20px;
-    margin-top: 190px;
-        
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: 160px;
+
 }
 
-.buttonB{
+.buttonB {
     background-color: #000000;
     color: rgb(52, 56, 92);
     width: 35px;
     height: 35px;
     align-self: center;
     box-shadow: 5px 5px 5px black;
-    border-radius: 50px;
-    margin-left: 185px;
-    margin-top: 210px; 
-    
+    border-radius: 50%;
+    margin-left: -10px;
+    margin-top: 200px;
+
 }
 
 .buttonA:hover {
     background-color: #6f5757;
 
 }
+
 .buttonB:hover {
     background-color: #6f5757;
 
+}
+
+.buttonSelect {
+    width: 70px;
+    height: 30px;
+    align-self: flex-end;
+}
+
+.buttonStart {
+    width: 100px;
+    height: 30px;align-self: flex-end;
+
+}
+
+
+.buttonSelect{
+    width: 40px;
+    height: 15px;
+    align-self: center;
+    background-color: #000000;
+    box-shadow:5px 5px 5px  #000000;
+    margin-left: 115px;
+    margin-top: 320px;
+    border-radius: 90%;
+}
+
+.buttonStart{
+    width: 40px;
+    height: 15px;
+    align-self: center;
+    background-color: #000000;
+    box-shadow:5px 5px 5px  #000000;
+    margin-left: 10px;
+    margin-top: 320px;
+    border-radius: 90%;
+    
+}
+
+.buttonStart:hover{
+    background-color: #6f5757;
+}
+.buttonSelect:hover{
+    background-color: #6f5757;
 }
