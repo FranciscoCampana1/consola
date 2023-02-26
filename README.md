@@ -1,46 +1,16 @@
 # Video consola portatil
 
-## Table of Contents
+Esta es una video consola "GAME BOY COLOR" para jugar a mas de 100 juegos.
+<img src="img/videoconsola.jpg.png" alt="imagen gameboy">
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
 
-## About <a name = "about"></a>
-
-Write about 1-2 paragraphs describing the purpose of your project.
-
-## Getting Started <a name = "getting_started"></a>
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## Usage <a name = "usage"></a>
-
-Add notes about how to use the system.
+Especificaciones técnicas
+CPU: Sharp LR35902 @ 4.19/8.38 MHz (basado en Zilog-Z80 e Intel 8080).<br>
+Memoria RAM: 32 KB.<br>
+Vídeo: Controlado por la CPU.<br>
+Pantalla: LCD Sharp en color con resolución de 160x144 pixeles
+Colores: 32.768, máximo 56 en pantalla.<br>
+Sprites simultáneos en pantalla: 40 sprites cada uno de 8x8 u 8x16 (Seleccionables).<br>
+Sonido: Estéreo PSG de 4 canales. 2 canales de onda cuadrada, 1 canal de ruido, 1 canal de memoria de onda ("hakei memory").<br>
+Alimentación: 2 pilas AA, duración 10 horas.<br>
+Dimensiones y peso: 133 mm de altura, 75 mm de ancho y 27 mm de fondo. Peso: 138 g.<br>
