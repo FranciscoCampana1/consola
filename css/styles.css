@@ -29,7 +29,7 @@ body {
 
 }
 
-.container{
+.container {
     width: 290px;
     height: 220px;
     background: linear-gradient(to right top, #cb3b3b, #cd3b3b, #ce3c3c, #d03c3c, #d23c3c);
@@ -37,7 +37,8 @@ body {
     margin-left: 5px;
     display: flex;
 }
-.containerFlechas{
+
+.containerFlechas {
     width: 110px;
     height: 220px;
     background: linear-gradient(to right top, #cb3b3b, #cd3b3b, #ce3c3c, #d03c3c, #d23c3c);
@@ -46,6 +47,7 @@ body {
     justify-content: center;
     align-items: center;
 }
+
 button {
     font-size: x-large;
     display: flex;
@@ -147,7 +149,7 @@ p {
     color: rgb(0, 170, 255);
 }
 
-.buttonAb{
+.buttonAb {
     width: 100px;
     display: flex;
     justify-content: space-around;
@@ -163,7 +165,7 @@ p {
     box-shadow: 5px 5px 5px black;
     border-radius: 50%;
     margin-bottom: 45px;
-    
+
 
 }
 
@@ -198,7 +200,7 @@ p {
 
 }
 
-.buttonSs{
+.buttonSs {
     width: 85px;
     height: 220px;
     display: flex;
@@ -207,27 +209,28 @@ p {
     margin-top: 25px;
 }
 
-.buttonSelect{
+.buttonSelect {
     width: 40px;
     height: 15px;
     background-color: #000000;
-    box-shadow:5px 5px 5px  #000000;
+    box-shadow: 5px 5px 5px #000000;
     border-radius: 90%;
 
 }
 
-.buttonStart{
+.buttonStart {
     width: 40px;
     height: 15px;
     background-color: #000000;
-    box-shadow:5px 5px 5px  #000000;
+    box-shadow: 5px 5px 5px #000000;
     border-radius: 90%;
-    
+
 }
 
-.buttonStart:hover{
+.buttonStart:hover {
     background-color: #6f5757;
 }
-.buttonSelect:hover{
+
+.buttonSelect:hover {
     background-color: #6f5757;
 }

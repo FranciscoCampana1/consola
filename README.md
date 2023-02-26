@@ -3,8 +3,7 @@
 Esta es una video consola "GAME BOY COLOR" para jugar a mas de 100 juegos.
 <img src="img/videoconsola.jpg.png" alt="imagen gameboy">
 
-
-Especificaciones técnicas
+Especificaciones técnicas.<br>
 CPU: Sharp LR35902 @ 4.19/8.38 MHz (basado en Zilog-Z80 e Intel 8080).<br>
 Memoria RAM: 32 KB.<br>
 Vídeo: Controlado por la CPU.<br>
