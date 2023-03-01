@@ -1,15 +1,47 @@
 # Video consola portatil
 
 Esta es una video consola "GAME BOY COLOR" para jugar a mas de 100 juegos.
-<img src="img/videoconsola.jpg.png" alt="imagen gameboy">
 
-Especificaciones técnicas.<br>
-CPU: Sharp LR35902 @ 4.19/8.38 MHz (basado en Zilog-Z80 e Intel 8080).<br>
-Memoria RAM: 32 KB.<br>
-Vídeo: Controlado por la CPU.<br>
-Pantalla: LCD Sharp en color con resolución de 160x144 pixeles
-Colores: 32.768, máximo 56 en pantalla.<br>
-Sprites simultáneos en pantalla: 40 sprites cada uno de 8x8 u 8x16 (Seleccionables).<br>
-Sonido: Estéreo PSG de 4 canales. 2 canales de onda cuadrada, 1 canal de ruido, 1 canal de memoria de onda ("hakei memory").<br>
-Alimentación: 2 pilas AA, duración 10 horas.<br>
-Dimensiones y peso: 133 mm de altura, 75 mm de ancho y 27 mm de fondo. Peso: 138 g.<br>
+<h2>Procedimiento</h2>
+
+<ul>
+    <li>Éste proyecto se ha creado utilzando HTML Y CSS.</li>
+    <li>En cuanto el funcionamiendo es necesario utilizar una aplicación de navegación llámese (Google Chrome, Miscrosoft Edge, etc)</li>
+    <li>No es necesario realizar instalaciones previas, se puede jugar 100% online</li>
+</ul>
+
+<br>
+<br>
+<br>
+
+<h2>Stack</h2>
+<a href="https://lenguajehtml.com/">
+    <img src="img/html.png" alt="imagen_html" target="_blank" width="80px">
+</a>
+<a href="https://lenguajecss.com/" target="_blank" >
+    <img src="img/css.png" alt="imagen_css"width="80px">
+</a>
+<br>
+<br>
+<h2> Deploy </h2>
+<p> Click aquí para ver el<a href="https://franciscocampana1.github.io/consola/" target="_blank" > DEMO</a></p> 
+<br>
+<br>
+
+<img src="img/videoconsola.jpg.png" alt="imagen gameboy">
+<br>
+<br>
+
+<h2>Futuras funcionalidades</h2>
+<ul>
+    <li>Nuevos juegos</li>
+    <li>Más comandos</li>
+    <li>Más velocidad en su funcionamiento</li>
+</ul>
+
+<br>
+
+<h2>Contacto</h2>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank" >
+    <img src="img/gmail.png" alt="imagen_css"width="80px">
+</a>

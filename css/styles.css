@@ -4,6 +4,10 @@ body {
     justify-content: center;
 }
 
+
+/* Estructura general del gameboy */
+
+
 .carcasa {
     background: linear-gradient(to right top, #cb3b3b, #cd3b3b, #ce3c3c, #d03c3c, #d23c3c);
     height: 450px;
@@ -33,6 +37,7 @@ body {
     margin-top: 220px;
     margin-left: 5px;
     display: flex;
+    
 }
 
 .containerFlechas {
@@ -44,6 +49,8 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+/* Creación y posicionamiento de flechas */
 
 button {
     font-size: x-large;
@@ -94,6 +101,9 @@ button {
 }
 
 
+/*Detalles y pseudoclases */
+
+
 .buttonDown,
 .buttonLeft,
 .buttonUp,
@@ -119,6 +129,7 @@ button {
 }
 
 
+/* caracteristicas de pantalla */
 
 p {
     color: rgb(21, 149, 204);
@@ -146,6 +157,8 @@ p {
     color: rgb(0, 170, 255);
 }
 
+
+/* cración y posicionamiento de botones A y B  */
 .buttonAb {
     width: 100px;
     display: flex;
@@ -185,6 +198,10 @@ p {
     background-color: #6f5757;
 
 }
+
+
+
+/* creación y posicionamiento de botones Select y Start */
 
 .buttonSelect {
     width: 70px;
